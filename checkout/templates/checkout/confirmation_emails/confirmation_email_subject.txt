@@ -1,0 +1,1 @@
+Sofie Olofsson Confirmation for Order No: {{ order.order_number }}
